@@ -16,6 +16,6 @@
 
 | Test ID | Function name | Description | Return type | Valid Input Range |	Output Range | Output for out of range/invalid inputs | Type of Test | Status (PASS/FAIL) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| L_01 | Mobile No. | checks if phonebook is asking mobile no. after the name | name | mobile | mobile | PASS |
-| L_02 | Name | checks if the given name is there in file | 0 and 1| 0 | unit test | PASS |
+| L_01 | Mobile No. | checks if phonebook is asking mobile no. after the name | name | mobile | mobile | PASS |Unit Test|PASS|
+| L_02 | Name | checks if the given name is there in file | 0 and 1| 0 | unit test | PASS |Unit Test|PASS|
 
