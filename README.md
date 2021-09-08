@@ -3,7 +3,8 @@ L&amp;T Technology Services Mini-Project (GENESIS_AUGUST_2021)
 
 
 ## Abstract
-* 
+*  HOW CODE WORKS
+![make](https://github.com/princeprijwal/STEPIN-Phonebook/blob/8d5611772667fe2d03541249abb2940c5c1bbff6/6_ImagesAndVideos/code.gif)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # BADGES 
